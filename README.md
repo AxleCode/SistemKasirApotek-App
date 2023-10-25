@@ -32,4 +32,5 @@ BackEnd
 - obat-service-springboot
 - transaction-service-springboot
 - crud-kategori
+- supplier-service
 - eureka
