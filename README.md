@@ -21,3 +21,15 @@ BackEnd
 - SpringBoot Framework
 - Java 20 Oracle
 - PostgreSQL
+
+*STRUCTUR FILE IMPORTANCE!!*
+ 
+FrontEnd 
+- apotek-app
+
+BackEnd
+- user-service-springboot
+- obat-service-springboot
+- transaction-service-springboot
+- crud-kategori
+- eureka
